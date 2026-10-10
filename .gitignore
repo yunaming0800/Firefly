@@ -47,3 +47,11 @@ package/
 .codex*
 .claude
 .mimocode
+
+# 本地文件（不提交）
+启动博客预览.cmd
+推送博客到GitHub.cmd
+devserver.log
+
+debug.log
+*.log
